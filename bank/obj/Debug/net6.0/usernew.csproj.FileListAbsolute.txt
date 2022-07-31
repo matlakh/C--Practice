@@ -1,0 +1,15 @@
+/home/usernew/test/bin/Debug/net6.0/usernew
+/home/usernew/test/bin/Debug/net6.0/usernew.deps.json
+/home/usernew/test/bin/Debug/net6.0/usernew.runtimeconfig.json
+/home/usernew/test/bin/Debug/net6.0/usernew.dll
+/home/usernew/test/bin/Debug/net6.0/usernew.pdb
+/home/usernew/test/obj/Debug/net6.0/usernew.csproj.AssemblyReference.cache
+/home/usernew/test/obj/Debug/net6.0/usernew.GeneratedMSBuildEditorConfig.editorconfig
+/home/usernew/test/obj/Debug/net6.0/usernew.AssemblyInfoInputs.cache
+/home/usernew/test/obj/Debug/net6.0/usernew.AssemblyInfo.cs
+/home/usernew/test/obj/Debug/net6.0/usernew.csproj.CoreCompileInputs.cache
+/home/usernew/test/obj/Debug/net6.0/usernew.dll
+/home/usernew/test/obj/Debug/net6.0/refint/usernew.dll
+/home/usernew/test/obj/Debug/net6.0/usernew.pdb
+/home/usernew/test/obj/Debug/net6.0/usernew.genruntimeconfig.cache
+/home/usernew/test/obj/Debug/net6.0/ref/usernew.dll
